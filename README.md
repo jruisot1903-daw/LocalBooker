@@ -16,3 +16,17 @@ git remote add origin https://github.com/jruisot1903-daw/LocalBooker.git
 git branch -M main
 git push -u origin main
 
+// crear rama y cambiarte a esa rama 
+git checkout -b prueba
+
+// ver todas las ramas 
+git branch
+
+// borrar una rama (cuando la has fusionado)
+git branch d- prueba
+
+//forzar el borrado(si no esta fusionado)
+git branch -D prueba
+
+// subir rama al repositiorio
+git push -u prueba
