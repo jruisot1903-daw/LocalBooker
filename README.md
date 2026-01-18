@@ -1,4 +1,4 @@
-# LocalBooker – Plataforma de reservas de servicios locales LocalBooker es una aplicación web que permite a los usuarios descubrir, comparar y reservar servicios de peluquería, estética, masajes y otros negocios cercanos. El diseño está inspirado en plataformas modernas de booking, priorizando claridad, accesibilidad y rapidez. 
+# LocalBooker – Plataforma de reservas de servicios locales , es una aplicación web que permite a los usuarios descubrir, comparar y reservar servicios de peluquería, estética, masajes y otros negocios cercanos. El diseño está inspirado en plataformas modernas de booksy, priorizando claridad, accesibilidad y rapidez. 
 ## 🛠 Instalación
 Consulta la guía de instalación incluida en la documentación del proyecto.
 
